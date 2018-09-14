@@ -1,6 +1,6 @@
 {
   "name": "lb-react-scripts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Configuration and scripts for Create React App. Clone from facebook's create-react-app",
   "repository": "lb-contributor/lb-react-scripts",
   "license": "MIT",
